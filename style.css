@@ -32,7 +32,11 @@
 
 .second-container {
   background-image: url(mobile-background.png);
-  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: calc(100vh - 599px);
+  border-bottom-left-radius: 90px;
+  background-color: fff;
 }
 
 .connect {
@@ -51,6 +55,7 @@
   justify-content: flex-start;
   column-gap: 20px;
   padding: 12px 0 0 24px;
+  list-style: none;
 }
 
 .logo {
