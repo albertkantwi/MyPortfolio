@@ -44,15 +44,11 @@ Phone
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@albertkantwi](https://github.com/albertkantwi)
+- Twitter: [Albert_KAntwi](https://twitter.com/Albert_KAntwi?t=cdjVl5R1Vagv3xGkhypQmA&s=08)
+- LinkedIn: [Albert Antwi](https://www.linkedin.com/in/albert-antwi-557291263)
 
-👤 **Author2**
 
-- GitHub: [@albertkantwi](https://github.com/githubhandle)
-- Twitter: [Albert_KAntwi](https://twitter.com/twitterhandle)
-- LinkedIn: [Albert Antwi](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
