@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
 .container {
   display: flex;
   justify-content: space-around;
@@ -13,7 +17,6 @@
   align-items: center;
   width: 327px;
   height: 150px;
-  font-family: 'Poppins', sans-serif;
   font-weight: 700;
   font-size: 40px;
   color: #172b4d;
@@ -21,7 +24,6 @@
 }
 
 .smaller-text {
-  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
@@ -43,21 +45,19 @@
 }
 
 .connect {
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
   color: #7f8cff;
-  padding-top: 1px;
-  padding-left: 24px;
+  margin: 0;
 }
 
 .social {
   display: flex;
   justify-content: flex-start;
   column-gap: 20px;
-  padding: 12px 0 0 24px;
+  padding: 12px 0 0 10px;
   list-style: none;
 }
 
@@ -72,7 +72,6 @@
   color: #6070ff;
   width: 76px;
   height: 20px;
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -146,7 +145,6 @@ button:hover {
 }
 
 .tonic {
-  font-family: 'Poppins', sans-serif;
   display: flex;
   color: #172b4d;
   font-weight: 700;
@@ -156,7 +154,6 @@ button:hover {
 }
 
 .canopy {
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 13px;
@@ -179,7 +176,6 @@ button:hover {
 }
 
 .second-small-text {
-  font-family: 'Poppins', sans-serif;
   display: flex;
   color: #344563;
   font-size: 15px;
@@ -190,7 +186,6 @@ button:hover {
 }
 
 .dott {
-  font-family: 'Poppins', sans-serif;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -205,7 +200,6 @@ button:hover {
 }
 
 p {
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -220,7 +214,6 @@ p {
   color: #6070ff;
   background: transparent;
   padding: 12px;
-  margin-top: 25px;
   border: 1px solid #6070ff;
   border-radius: 8px;
   font-size: 17px;
@@ -241,7 +234,6 @@ p {
 .small {
   width: 295px;
   height: 76px;
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 15px;
@@ -271,7 +263,6 @@ p {
   flex: none;
   order: 0;
   flex-grow: 0;
-  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 12px;
@@ -317,7 +308,6 @@ h2 {
 
 .about-text {
   display: flex;
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -333,7 +323,6 @@ h2 {
   flex: 1;
   height: 24px;
   margin: 15px 0 20px;
-  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -397,7 +386,6 @@ i:hover {
 }
 
 .ton {
-  font-family: 'Poppins', sans-serif;
   display: flex;
   color: #172b4d;
   font-weight: 700;
@@ -411,4 +399,8 @@ i:hover {
   justify-content: center;
   border-radius: 16px;
   padding-left: 16px;
+}
+
+.tab-langs {
+  padding: 0;
 }
